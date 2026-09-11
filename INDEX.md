@@ -24,6 +24,8 @@ Questions, claims, evidence and sources. All evidence sources cite exact LaminDB
 | Current perfusion grain (label) | `silver/cortex_tiered/stage3/label/perfusion_wide.parquet` | `3iT9wimnEbhx4oPs001Q` |
 | Deprecated sample snapshot | `silver/cortex_metadata/silver_sample_metadata.parquet` | `WeLk7yZ5hvZSwMTl000N` |
 | Inventory output | `research/runs/Phlz7GaqR7YqX8h3/inventory.json` | `ryrBa58bwN7SAA690000` |
+| Donor-age reviewed figure (PNG) | `research/runs/jmycU9WhVhhytrlQ/human_donor_age_trend_reviewed.png` | `5WJEgPp2fB0sGML10000` |
+| Donor-age reviewed figure (SVG, same run) | `research/runs/jmycU9WhVhhytrlQ/human_donor_age_trend_reviewed.svg` | `RuM2zs9gEhA2gqzg0000` |
 | Current perfusion grain (code) | `silver/cortex_tiered/stage3/code/perfusion_wide.parquet` | `8ukQHk0n1XrM22ll001Q` |
 | Brain-flow hours 6-12 summary | `research/runs/NJpejIJdRfiJwFJb/brain_flow_hours_6_12_summary.json` | `93BMNghm4JOGOVZE0000` |
 | Brain-flow hours 6-12 per-perfusion | `research/runs/NJpejIJdRfiJwFJb/brain_flow_hours_6_12_per_perfusion.parquet` | `RxFRfdQEvhaM3pMY0000` |
