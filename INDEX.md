@@ -5,11 +5,13 @@ Questions, claims, evidence and sources. All evidence sources cite exact LaminDB
 ## Active questions
 
 - [[QUE-001_canonical_cortex_sample_metadata]]: Which Cortex artifacts are the current sample and perfusion metadata sources?
+- [[QUE-9cb01101fcc84a19a2d4a59a4c02f49c]]: Does human donor age change over calendar time?
 
 ## Claims
 
 - [[CLM-001_stage3_sample_wide_is_current_sample_grain]] (supported, moderate): Stage 3 `sample_wide` is the current sample-grain table.
 - [[CLM-002_silver_sample_metadata_is_not_equivalent]] (supported, moderate): June `silver_sample_metadata` is still latest on its key but is not equivalent.
+- [[CLM-ee9f6c31c96d4c42879799889d9ad679]] (inconclusive, moderate): Donor age versus calendar time is specification-dependent in the 2026-09-11 HumanBrainProfile snapshot.
 
 ## Pinned identities as of 2026-09-11
 
